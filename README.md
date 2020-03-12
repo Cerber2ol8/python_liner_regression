@@ -9,5 +9,6 @@
 
 # 相同数据可用于paddle paddle
 
-Liner_Regression.py 为纯numpy实现 \n
-Liner_Regression_paddle.py 为paddle实现 \n
+Liner_Regression.py 为纯numpy实现  
+Liner_Regression_paddle.py 为paddle实现  
+data_generator.py 随机生成线性数据（自定维度）
