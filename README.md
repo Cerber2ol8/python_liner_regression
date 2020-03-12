@@ -7,7 +7,7 @@
 # 实时可视化
 基于matplotlib实时显示训练损失
 
-# 相同数据可用于paddle paddle
+# for paddle paddle
 
 Liner_Regression.py 为纯numpy实现  
 Liner_Regression_paddle.py 为paddle实现  
